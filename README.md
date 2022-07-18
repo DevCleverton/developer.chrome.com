@@ -1,7 +1,11 @@
+
+
 # developer.chrome.com
 
-developer.chrome.com is the ultimate resource for developers of all backgrounds
+
+developer.chrome.com  is the ultimate resource for developers of all backgrounds
 to learn about what's new in Chrome!
+<img src='https://raw.githubusercontent.com/GoogleChrome/samples/c9276da15a7d9a099549600f879039c2ba33bee3/images/google%20chrome.png' width='20px'/>
 
 ## Found a bug? 👷‍♀️
 
